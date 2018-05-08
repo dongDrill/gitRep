@@ -6,5 +6,6 @@ public class gitExample
 		System.out.println(i);
 
 		String str = "ban.zanshibuxuyao";
+		System.out.println("这个能不能用图形化界面工具?");
 	}
 }
