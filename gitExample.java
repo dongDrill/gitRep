@@ -9,5 +9,7 @@ public class gitExample
 		System.out.println("这个能不能用图形化界面工具?");
 		System.out.println("这个能不能用图形化界面工具?");
 		System.out.println("这个能不能用图形化界面工具?");
+		  modified
+		int j=9;
 	}
 }
