@@ -8,5 +8,6 @@ public class gitExample
 		String str = "ban.zanshibuxuyao";
 		System.out.println("这个能不能用图形化界面工具?");
 		System.out.println("这个能不能用图形化界面工具?");
+		System.out.println("这个能不能用图形化界面工具?");
 	}
 }
