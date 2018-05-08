@@ -4,5 +4,7 @@ public class gitExample
 
 		int i=9;
 		System.out.println(i);
+
+		String str = "ban.zanshibuxuyao";
 	}
 }
